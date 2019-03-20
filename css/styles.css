@@ -1,6 +1,7 @@
 body{
   width:100%;
-  background-color: cornsilk;
+  background-color:honeydew;
+  text-align: center;
 }
 #logo{
   width: 100px;
@@ -27,4 +28,11 @@ a{
 a:hover{
   background-color: white;
   color: orange;
+}
+ol{
+  display: flex;
+  justify-content: space-around;
+}
+h1{
+color: brown;
 }
