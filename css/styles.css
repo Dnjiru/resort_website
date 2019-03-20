@@ -6,6 +6,7 @@ body{
 #logo{
   width: 100px;
   height: auto;
+  float:left;
 }
 #menu_bar{
   display: flex;
